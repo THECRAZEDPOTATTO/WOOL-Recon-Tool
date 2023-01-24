@@ -1,6 +1,7 @@
 # Wool-Recon-Tool
 Wool is a basic recon made in python but can be dropped with C++ or Rust
-
+# TERM OF USE
+You can use any code here as long as you give credit!
 ## Why
 After seening a lot of skidded Stealers/Grabbers renamed and little code edits made I decided it I would upload this and not make it paid. Their is no point in hiding open things to better recon and make it paid so becuase of this Wool will now be open source.
 
@@ -21,3 +22,5 @@ Feel free to make pull requests and make it better and add other things to it
 - Vesper
 - W4sp Stealer
 - Merc Grabber
+
+
